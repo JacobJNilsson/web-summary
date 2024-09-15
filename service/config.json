@@ -1,0 +1,8 @@
+{
+  "openai_model": "gpt-4o",
+  "summary_prompt": {
+    "en": "Summarize the provided text. Focus on what the company do and can offer. Make sure to mention all the offered services and products.",
+    "sv": "Sammanfatta den tillhandahållna texten. Fokusera på vad företaget gör och kan erbjuda. Se till att alla erbjudande tjänster och produkter nämns."
+  },
+  "max_tokens": 16385
+}
